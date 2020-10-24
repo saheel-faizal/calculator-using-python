@@ -1,0 +1,35 @@
+.calc{
+    width: 400px;
+    height: 425px;
+    background-image:url(Cfc.jpg);
+    margin-left: 400px;
+    border-radius: 10px;
+    padding-top: 25px;
+    display: grid;
+    
+
+}
+#displayser{
+    width: 80%;
+    margin-left: 36px;
+    height: 40px;
+    margin-top: 30px;
+    pointer-events: none;
+    
+}
+.btn{
+    width: 54px;
+    height: 45px;
+    border-radius: 7px;
+    margin-left: 34px;
+    margin-top: 19px;
+    font-size: large;
+    background-color:rgb(180, 160, 161)
+
+}
+.main-body{
+    padding: 0;
+    margin: 0;
+    height: 1000px;
+    background: linear-gradient(#b97171,#98d9c7);
+}
